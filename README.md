@@ -30,13 +30,13 @@ This project is built using **Vanilla JavaScript**, HTML, and CSS, and it is mob
 
 ## Demo
 
-- You can play the **Word Beater Game** directly by visiting the live demo at: [Play Word Beater Game](https://your-website-link.com/word-beater)
+- You can play the **Word Beater Game** directly by visiting the live demo at: [Play Word Beater Game](https://yg-yash.github.io/wordbeater/)
 
 ## GitHub Repository
 
 You can find the source code for this project in my GitHub repository:
 
-- [Word Beater Game GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME/word-beater)
+- [Word Beater Game GitHub Repository](https://github.com/yg-yash/wordbeater)
 
 ## Technologies Used
 
